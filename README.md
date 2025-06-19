@@ -32,10 +32,5 @@ This project allows an admin to:
 
 ---
 
-## 📎 Screenshots
-*(Add images if you want later)*
-
----
-
 ## 📘 Author
-**Your Name**
+**Umar Shaik**
